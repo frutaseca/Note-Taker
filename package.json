@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/frutaseca/Note-Taker/issues"
   },
-  "homepage": "https://github.com/frutaseca/Note-Taker#readme"
+  "homepage": "https://github.com/frutaseca/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
